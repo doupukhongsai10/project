@@ -1,4 +1,4 @@
 # project
 My first git repository
 <br>
-Author - doupu khongsai
+Author - doupu khongsai (new)
